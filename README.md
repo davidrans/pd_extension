@@ -1,4 +1,4 @@
-# RMS Enhancements
+# PD Extension
 
 A Chrome extension that adds a few shortcuts and checks to the evidence and
 report writer pages.
@@ -7,13 +7,13 @@ report writer pages.
 
 No GitHub account is needed.
 
-**[Download rms-enhancements.zip](../../raw/HEAD/rms-enhancements.zip)**
+**[Download pd-extension.zip](../../raw/HEAD/pd-extension.zip)**
 
 1. Unzip it somewhere it can stay. Chrome reads the extension from those files
    every time it starts, so they can't be deleted afterwards.
 2. Open `chrome://extensions`.
 3. Turn on **Developer mode** (top right).
-4. Click **Load unpacked** and choose the unzipped `rms-enhancements` folder.
+4. Click **Load unpacked** and choose the unzipped `pd-extension` folder.
 5. Reload any evidence or report writer tabs you already had open.
 
 Set your badge number by clicking the extension's icon in the toolbar.
