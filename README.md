@@ -1,7 +1,6 @@
 # PD Extension
 
-A Chrome extension that adds a few shortcuts and checks to the evidence and
-report writer pages.
+A Chrome extension that adds a few shortcuts and checks to Axon Evidence Search, RMS, and Draft One pages.
 
 ## Installing
 
@@ -14,7 +13,7 @@ No GitHub account is needed.
 2. Open `chrome://extensions`.
 3. Turn on **Developer mode** (top right).
 4. Click **Load unpacked** and choose the unzipped `pd-extension` folder.
-5. Reload any evidence or report writer tabs you already had open.
+5. Reload any tabs you already had open.
 
 Set your badge number by clicking the extension's icon in the toolbar.
 
